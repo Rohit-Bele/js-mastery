@@ -16,4 +16,7 @@ The goal is to build deep understanding, improve problem-solving skills, and pre
 ---
 
 ## 🗂️ Project Structure
+This repository follows a structured folder hierarchy based on the complete JavaScript roadmap.  
+Each folder represents a major concept area and contains examples, notes, and daily practice files.
+
 
