@@ -13,6 +13,7 @@ This repository is designed to strengthen core JavaScript concepts through:
 
 The goal is to build deep understanding, improve problem-solving skills, and prepare for real-world development and technical interviews.
 
+
 ---
 
 ## 🗂️ Project Structure
